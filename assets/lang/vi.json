@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "L38 Company | Thương mại quốc tế & Logistics"
+  },
+  "brand": {
+    "name": "L38",
+    "aria": "L38 Company",
+    "logoAlt": "Logo L38 Company",
+    "tagline": "Global Trade & Logistics"
+  },
+  "language": {
+    "aria": "Chọn ngôn ngữ",
+    "vi": "Tiếng Việt",
+    "en": "Tiếng Anh",
+    "zh": "Tiếng Trung",
+    "ja": "Tiếng Nhật",
+    "ko": "Tiếng Hàn"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "services": "Lĩnh vực",
+    "markets": "Thị trường",
+    "leadership": "Lãnh đạo",
+    "location": "Bản đồ",
+    "contact": "Liên hệ",
+    "mail": "Server Mail",
+    "mailAria": "Mở Server Mail",
+    "backToTop": "Cuộn lên đầu trang",
+    "openMenu": "Mở menu"
+  },
+  "hero": {
+    "eyebrow": "L38 Import Export Services & Trading",
+    "title": "Connecting Global Trade",
+    "copy": "Đối tác tin cậy trong thương mại quốc tế, xuất nhập khẩu và logistics xuyên biên giới.",
+    "ctaPrimary": "Kết nối tư vấn",
+    "ctaSecondary": "Xem năng lực",
+    "panelLabel": "Văn phòng",
+    "panelTitle": "Vincom Center Đồng Khởi",
+    "panelText": "Tầng 18, trung tâm TP. Hồ Chí Minh"
+  },
+  "about": {
+    "eyebrow": "Company Profile",
+    "title": "L38 Company",
+    "copy": "Doanh nghiệp hoạt động trong lĩnh vực xuất nhập khẩu, thương mại quốc tế và logistics, kết nối giao thương giữa Việt Nam, Trung Quốc, Đông Nam Á và thị trường quốc tế.",
+    "legalNameLabel": "Tên pháp lý",
+    "legalName": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ XUẤT NHẬP KHẨU L38",
+    "taxLabel": "Mã số thuế",
+    "foundedLabel": "Ngày thành lập",
+    "statusLabel": "Tình trạng",
+    "status": "Đang hoạt động"
+  },
+  "services": {
+    "eyebrow": "Core Services",
+    "title": "Lĩnh vực hoạt động",
+    "items": [
+      {
+        "title": "Xuất nhập khẩu",
+        "items": ["Xuất nhập khẩu hàng hóa quốc tế", "Hỗ trợ chứng từ", "Khai báo hải quan", "Điều phối vận chuyển", "Theo dõi đơn hàng quốc tế"]
+      },
+      {
+        "title": "Thương mại quốc tế",
+        "items": ["Kết nối nhà cung cấp", "Tìm kiếm nguồn hàng", "Hỗ trợ giao thương", "Mở rộng thị trường quốc tế", "Tư vấn hợp tác doanh nghiệp"]
+      },
+      {
+        "title": "Logistics",
+        "items": ["Vận chuyển quốc tế", "Quản lý giao nhận", "Điều phối container", "Theo dõi chuỗi cung ứng", "Tối ưu vận hành logistics"]
+      }
+    ]
+  },
+  "capacity": {
+    "eyebrow": "Enterprise Capability",
+    "title": "Vận hành thực tế, kết nối đa quốc gia",
+    "copy": "L38 hỗ trợ điều phối đơn hàng, logistics quốc tế, thủ tục hải quan, vận chuyển và tư vấn thương mại cho các doanh nghiệp cần mở rộng thị trường.",
+    "items": ["Hỗ trợ logistics quốc tế", "Điều phối đơn hàng", "Hỗ trợ đa ngôn ngữ", "Kết nối đối tác quốc tế", "Quản lý vận chuyển", "Hỗ trợ vận hành xuất nhập khẩu"]
+  },
+  "operations": {
+    "eyebrow": "Operating Framework",
+    "title": "Quy trình triển khai rõ ràng",
+    "copy": "L38 đồng hành từ khảo sát nhu cầu, tìm nguồn, kiểm tra chứng từ, điều phối vận chuyển đến theo dõi tiến độ và hỗ trợ sau giao hàng.",
+    "step1Title": "Tiếp nhận nhu cầu",
+    "step1Copy": "Xác định mặt hàng, thị trường, tuyến vận chuyển, yêu cầu chứng từ và thời gian.",
+    "step2Title": "Kết nối nguồn hàng",
+    "step2Copy": "Hỗ trợ tìm kiếm nhà cung cấp, trao đổi điều kiện giao dịch và phương án hợp tác.",
+    "step3Title": "Điều phối logistics",
+    "step3Copy": "Phối hợp vận chuyển quốc tế, container, giao nhận, hải quan và theo dõi đơn hàng.",
+    "step4Title": "Báo cáo & hỗ trợ",
+    "step4Copy": "Cập nhật tiến độ, lưu vết vận hành và hỗ trợ xử lý phát sinh trong quá trình giao thương."
+  },
+  "documents": {
+    "eyebrow": "Documentation Support",
+    "title": "Hỗ trợ chứng từ & vận hành xuất nhập khẩu",
+    "panelTitle": "Các nhóm hỗ trợ chính",
+    "item1": "Hồ sơ thương mại quốc tế",
+    "item2": "Chứng từ vận chuyển và giao nhận",
+    "item3": "Theo dõi tiến độ đơn hàng",
+    "item4": "Điều phối nhà cung cấp và đối tác logistics",
+    "item5": "Hỗ trợ trao đổi đa ngôn ngữ",
+    "item6": "Tư vấn phương án thương mại phù hợp",
+    "diffTitle": "Điểm khác biệt",
+    "diffCopy": "Tập trung vào vận hành thực tế, phản hồi nhanh, minh bạch thông tin và xây dựng quan hệ hợp tác dài hạn với khách hàng cùng đối tác quốc tế.",
+    "cta": "Trao đổi với L38"
+  },
+  "markets": {
+    "eyebrow": "Operating Markets",
+    "title": "Thị trường hoạt động",
+    "items": ["Việt Nam", "Trung Quốc", "Đông Nam Á", "Thị trường quốc tế"]
+  },
+  "stats": {
+    "items": [
+      { "value": "100+", "label": "Khách hàng" },
+      { "value": "50+", "label": "Đối tác quốc tế" },
+      { "value": "10,000+", "label": "Đơn hàng hỗ trợ" },
+      { "value": "24/7", "label": "Hỗ trợ tư vấn" }
+    ]
+  },
+  "values": {
+    "eyebrow": "Core Values",
+    "title": "Giá trị cốt lõi",
+    "items": [
+      { "title": "Uy tín", "copy": "Cam kết minh bạch, đúng tiến độ và chuyên nghiệp." },
+      { "title": "Hiệu quả", "copy": "Tối ưu vận hành và chi phí cho khách hàng." },
+      { "title": "Bền vững", "copy": "Hợp tác lâu dài cùng phát triển quốc tế." }
+    ]
+  },
+  "leadership": {
+    "eyebrow": "Leadership",
+    "title": "Ban lãnh đạo",
+    "directorRole": "Giám đốc",
+    "directorName": "Âu Võ Long",
+    "directorAlt": "Ảnh Âu Võ Long",
+    "directorQrAlt": "Mã QR Zalo của Âu Võ Long",
+    "financeRole": "Phó Giám đốc Tài Chính",
+    "financeName": "Vũ Hằng",
+    "financeAlt": "Ảnh Vũ Hằng",
+    "financeQrAlt": "Mã QR Zalo của Vũ Hằng",
+    "phoneLabel": "Phone:",
+    "emailLabel": "Email:",
+    "openZalo": "Mở Zalo"
+  },
+  "gallery": {
+    "eyebrow": "Office Image",
+    "title": "Không gian văn phòng L38",
+    "image1Alt": "Góc nhìn văn phòng L38",
+    "image2Alt": "Không gian làm việc L38",
+    "image3Alt": "Toàn cảnh văn phòng L38"
+  },
+  "map": {
+    "eyebrow": "Location",
+    "title": "Văn phòng tại Vincom Center Đồng Khởi",
+    "copy": "Vincom Center Dong Khoi, 72 Lê Thánh Tôn, Sài Gòn, Hồ Chí Minh, Vietnam.",
+    "openLabel": "Mở Google Maps",
+    "address": "Vincom Center Dong Khoi, 72 Lê Thánh Tôn, Sài Gòn, Hồ Chí Minh, Vietnam"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Kết nối với L38",
+    "copy": "Sẵn sàng hỗ trợ tư vấn xuất nhập khẩu, logistics và thương mại quốc tế.",
+    "website": "Website",
+    "email": "Email",
+    "phone": "Điện thoại",
+    "mailServerLabel": "Mail Server",
+    "addressLabel": "Địa chỉ văn phòng",
+    "address": "L18-11-13, Tầng 18, Vincom Center Đồng Khởi, 72 Lê Thánh Tôn, Phường Sài Gòn, TP. Hồ Chí Minh, Việt Nam"
+  },
+  "footer": {
+    "company": "L38 Company",
+    "rights": "All rights reserved."
+  }
+}

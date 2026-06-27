@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "L38 Company | Global Trade & Logistics"
+  },
+  "brand": {
+    "name": "L38",
+    "aria": "L38 Company",
+    "logoAlt": "L38 Company logo",
+    "tagline": "Global Trade & Logistics"
+  },
+  "language": {
+    "aria": "Select language",
+    "vi": "Vietnamese",
+    "en": "English",
+    "zh": "Chinese",
+    "ja": "Japanese",
+    "ko": "Korean"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "markets": "Markets",
+    "leadership": "Leadership",
+    "location": "Map",
+    "contact": "Contact",
+    "mail": "Server Mail",
+    "mailAria": "Open Server Mail",
+    "backToTop": "Back to top",
+    "openMenu": "Open menu"
+  },
+  "hero": {
+    "eyebrow": "L38 Import Export Services & Trading",
+    "title": "Connecting Global Trade",
+    "copy": "A reliable partner for international trade, import-export operations and cross-border logistics.",
+    "ctaPrimary": "Request Consulting",
+    "ctaSecondary": "View Capability",
+    "panelLabel": "Office",
+    "panelTitle": "Vincom Center Dong Khoi",
+    "panelText": "18th floor, central Ho Chi Minh City"
+  },
+  "about": {
+    "eyebrow": "Company Profile",
+    "title": "L38 Company",
+    "copy": "An import-export, international trading and logistics company connecting trade between Vietnam, China, Southeast Asia and global markets.",
+    "legalNameLabel": "Legal name",
+    "legalName": "L38 IMPORT EXPORT SERVICES & TRADING COMPANY LIMITED",
+    "taxLabel": "Tax code",
+    "foundedLabel": "Founded",
+    "statusLabel": "Status",
+    "status": "Active"
+  },
+  "services": {
+    "eyebrow": "Core Services",
+    "title": "Business Sectors",
+    "items": [
+      {
+        "title": "Import & Export",
+        "items": ["International goods import and export", "Document support", "Customs declaration", "Transport coordination", "International order tracking"]
+      },
+      {
+        "title": "International Trade",
+        "items": ["Supplier connection", "Product sourcing", "Trade support", "International market expansion", "Business partnership consulting"]
+      },
+      {
+        "title": "Logistics",
+        "items": ["International transportation", "Freight management", "Container coordination", "Supply chain tracking", "Logistics operation optimization"]
+      }
+    ]
+  },
+  "capacity": {
+    "eyebrow": "Enterprise Capability",
+    "title": "Practical operation, multinational connection",
+    "copy": "L38 supports order coordination, international logistics, customs procedures, transportation and trade consulting for businesses expanding across markets.",
+    "items": ["International logistics support", "Order coordination", "Multilingual support", "Global partner connection", "Transportation management", "Import-export operation support"]
+  },
+  "operations": {
+    "eyebrow": "Operating Framework",
+    "title": "A clear execution workflow",
+    "copy": "L38 supports the full process from requirement review, sourcing and document checks to logistics coordination, progress tracking and after-delivery support.",
+    "step1Title": "Requirement review",
+    "step1Copy": "Define products, markets, transportation routes, documentation needs and timing.",
+    "step2Title": "Sourcing connection",
+    "step2Copy": "Support supplier search, trading condition discussion and cooperation planning.",
+    "step3Title": "Logistics coordination",
+    "step3Copy": "Coordinate international shipping, containers, freight handling, customs and order tracking.",
+    "step4Title": "Reporting & support",
+    "step4Copy": "Update progress, keep operational records and support issue handling during trade execution."
+  },
+  "documents": {
+    "eyebrow": "Documentation Support",
+    "title": "Documentation & import-export operation support",
+    "panelTitle": "Main support groups",
+    "item1": "International trade files",
+    "item2": "Shipping and freight documents",
+    "item3": "Order progress tracking",
+    "item4": "Supplier and logistics partner coordination",
+    "item5": "Multilingual communication support",
+    "item6": "Suitable trade solution consulting",
+    "diffTitle": "What makes L38 different",
+    "diffCopy": "L38 focuses on practical operations, fast response, transparent information and long-term cooperation with customers and international partners.",
+    "cta": "Talk to L38"
+  },
+  "markets": {
+    "eyebrow": "Operating Markets",
+    "title": "Operating Markets",
+    "items": ["Vietnam", "China", "Southeast Asia", "Global Markets"]
+  },
+  "stats": {
+    "items": [
+      { "value": "100+", "label": "Clients" },
+      { "value": "50+", "label": "International Partners" },
+      { "value": "10,000+", "label": "Supported Orders" },
+      { "value": "24/7", "label": "Consulting Support" }
+    ]
+  },
+  "values": {
+    "eyebrow": "Core Values",
+    "title": "Core Values",
+    "items": [
+      { "title": "Trust", "copy": "Transparent, punctual and professional commitment." },
+      { "title": "Efficiency", "copy": "Optimized operation and cost for clients." },
+      { "title": "Sustainability", "copy": "Long-term cooperation for international growth." }
+    ]
+  },
+  "leadership": {
+    "eyebrow": "Leadership",
+    "title": "Leadership Team",
+    "directorRole": "Director",
+    "directorName": "Au Vo Long",
+    "directorAlt": "Portrait of Au Vo Long",
+    "directorQrAlt": "Au Vo Long Zalo QR code",
+    "financeRole": "Deputy Finance Director",
+    "financeName": "Vu Hang",
+    "financeAlt": "Portrait of Vu Hang",
+    "financeQrAlt": "Vu Hang Zalo QR code",
+    "phoneLabel": "Phone:",
+    "emailLabel": "Email:",
+    "openZalo": "Open Zalo"
+  },
+  "gallery": {
+    "eyebrow": "Office Image",
+    "title": "L38 Office Space",
+    "image1Alt": "L38 office view",
+    "image2Alt": "L38 workspace",
+    "image3Alt": "L38 office wide view"
+  },
+  "map": {
+    "eyebrow": "Location",
+    "title": "Office at Vincom Center Dong Khoi",
+    "copy": "Vincom Center Dong Khoi, 72 Le Thanh Ton, Saigon, Ho Chi Minh City, Vietnam.",
+    "openLabel": "Open Google Maps",
+    "address": "Vincom Center Dong Khoi, 72 Le Thanh Ton, Saigon, Ho Chi Minh City, Vietnam"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Connect With L38",
+    "copy": "Ready to support import-export, logistics and international trade consulting.",
+    "website": "Website",
+    "email": "Email",
+    "phone": "Phone",
+    "mailServerLabel": "Mail Server",
+    "addressLabel": "Office address",
+    "address": "L18-11-13, 18th Floor, Vincom Center Dong Khoi, 72 Le Thanh Ton, Saigon Ward, Ho Chi Minh City, Vietnam"
+  },
+  "footer": {
+    "company": "L38 Company",
+    "rights": "All rights reserved."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "L38 Company | 国际贸易与物流"
+  },
+  "brand": {
+    "name": "L38",
+    "aria": "L38 公司",
+    "logoAlt": "L38 公司标志",
+    "tagline": "全球贸易与物流"
+  },
+  "language": {
+    "aria": "选择语言",
+    "vi": "越南语",
+    "en": "英语",
+    "zh": "中文",
+    "ja": "日语",
+    "ko": "韩语"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "services": "业务领域",
+    "markets": "市场",
+    "leadership": "管理团队",
+    "location": "地图",
+    "contact": "联系",
+    "mail": "邮件服务器",
+    "mailAria": "打开邮件服务器",
+    "backToTop": "返回顶部",
+    "openMenu": "打开菜单"
+  },
+  "hero": {
+    "eyebrow": "L38 进出口服务与贸易",
+    "title": "连接全球贸易",
+    "copy": "国际贸易、进出口运营与跨境物流的可靠合作伙伴。",
+    "ctaPrimary": "咨询联系",
+    "ctaSecondary": "查看能力",
+    "panelLabel": "办公室",
+    "panelTitle": "Vincom Center Dong Khoi",
+    "panelText": "胡志明市中心第18层"
+  },
+  "about": {
+    "eyebrow": "公司简介",
+    "title": "L38 Company",
+    "copy": "L38 是一家进出口、国际贸易和物流企业，连接越南、中国、东南亚及全球市场的跨境贸易。",
+    "legalNameLabel": "法定名称",
+    "legalName": "L38 IMPORT EXPORT SERVICES & TRADING COMPANY LIMITED",
+    "taxLabel": "税号",
+    "foundedLabel": "成立日期",
+    "statusLabel": "运营状态",
+    "status": "正常运营"
+  },
+  "services": {
+    "eyebrow": "核心服务",
+    "title": "业务领域",
+    "items": [
+      {
+        "title": "进出口",
+        "items": ["国际货物进出口", "单证支持", "海关申报", "运输协调", "国际订单跟踪"]
+      },
+      {
+        "title": "国际贸易",
+        "items": ["供应商连接", "货源寻找", "贸易支持", "拓展国际市场", "企业合作咨询"]
+      },
+      {
+        "title": "物流",
+        "items": ["国际运输", "货运管理", "集装箱协调", "供应链跟踪", "物流运营优化"]
+      }
+    ]
+  },
+  "capacity": {
+    "eyebrow": "企业能力",
+    "title": "实务运营，多国连接",
+    "copy": "L38 为拓展市场的企业提供订单协调、国际物流、海关手续、运输管理和贸易咨询支持。",
+    "items": ["国际物流支持", "订单协调", "多语言支持", "国际合作伙伴连接", "运输管理", "进出口运营支持"]
+  },
+  "operations": {
+    "eyebrow": "运营流程",
+    "title": "清晰的执行流程",
+    "copy": "L38 从需求评估、寻源、文件检查、物流协调到进度跟踪和交付后支持，全流程陪伴客户。",
+    "step1Title": "需求接收",
+    "step1Copy": "明确产品、市场、运输路线、文件要求和时间计划。",
+    "step2Title": "货源连接",
+    "step2Copy": "支持寻找供应商、沟通交易条件并制定合作方案。",
+    "step3Title": "物流协调",
+    "step3Copy": "协调国际运输、集装箱、货运、海关及订单跟踪。",
+    "step4Title": "报告与支持",
+    "step4Copy": "更新进度、保留运营记录，并协助处理贸易过程中的问题。"
+  },
+  "documents": {
+    "eyebrow": "文件支持",
+    "title": "文件与进出口运营支持",
+    "panelTitle": "主要支持内容",
+    "item1": "国际贸易资料",
+    "item2": "运输与交付文件",
+    "item3": "订单进度跟踪",
+    "item4": "供应商与物流伙伴协调",
+    "item5": "多语言沟通支持",
+    "item6": "合适贸易方案咨询",
+    "diffTitle": "L38 的差异化",
+    "diffCopy": "L38 注重实际运营、快速响应、信息透明，并与客户和国际合作伙伴建立长期合作关系。",
+    "cta": "联系 L38"
+  },
+  "markets": {
+    "eyebrow": "运营市场",
+    "title": "运营市场",
+    "items": ["越南", "中国", "东南亚", "国际市场"]
+  },
+  "stats": {
+    "items": [
+      { "value": "100+", "label": "客户" },
+      { "value": "50+", "label": "国际合作伙伴" },
+      { "value": "10,000+", "label": "支持订单" },
+      { "value": "24/7", "label": "咨询支持" }
+    ]
+  },
+  "values": {
+    "eyebrow": "核心价值",
+    "title": "核心价值",
+    "items": [
+      { "title": "信誉", "copy": "坚持透明、准时和专业的服务承诺。" },
+      { "title": "效率", "copy": "为客户优化运营流程与成本。" },
+      { "title": "可持续", "copy": "以长期合作推动国际化发展。" }
+    ]
+  },
+  "leadership": {
+    "eyebrow": "管理团队",
+    "title": "管理团队",
+    "directorRole": "董事",
+    "directorName": "Au Vo Long",
+    "directorAlt": "Au Vo Long 照片",
+    "directorQrAlt": "Au Vo Long Zalo 二维码",
+    "financeRole": "财务副董事",
+    "financeName": "Vu Hang",
+    "financeAlt": "Vu Hang 照片",
+    "financeQrAlt": "Vu Hang Zalo 二维码",
+    "phoneLabel": "电话：",
+    "emailLabel": "邮箱：",
+    "openZalo": "打开 Zalo"
+  },
+  "gallery": {
+    "eyebrow": "办公室图片",
+    "title": "L38 办公空间",
+    "image1Alt": "L38 办公室景观",
+    "image2Alt": "L38 工作空间",
+    "image3Alt": "L38 办公室全景"
+  },
+  "map": {
+    "eyebrow": "位置",
+    "title": "Vincom Center Dong Khoi 办公室",
+    "copy": "Vincom Center Dong Khoi, 72 Le Thanh Ton, Saigon, Ho Chi Minh City, Vietnam.",
+    "openLabel": "打开 Google Maps",
+    "address": "Vincom Center Dong Khoi, 72 Le Thanh Ton, Saigon, Ho Chi Minh City, Vietnam"
+  },
+  "contact": {
+    "eyebrow": "联系",
+    "title": "联系 L38",
+    "copy": "为进出口、物流和国际贸易咨询提供及时支持。",
+    "website": "网站",
+    "email": "电子邮件",
+    "phone": "电话",
+    "mailServerLabel": "邮件服务器",
+    "addressLabel": "办公室地址",
+    "address": "越南胡志明市西贡坊黎圣宗街72号 Vincom Center Dong Khoi 第18层 L18-11-13"
+  },
+  "footer": {
+    "company": "L38 公司",
+    "rights": "版权所有。"
+  }
+}

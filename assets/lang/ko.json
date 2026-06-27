@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "L38 Company | 국제 무역 및 물류"
+  },
+  "brand": {
+    "name": "L38",
+    "aria": "L38 Company",
+    "logoAlt": "L38 Company 로고",
+    "tagline": "국제 무역 및 물류"
+  },
+  "language": {
+    "aria": "언어 선택",
+    "vi": "베트남어",
+    "en": "영어",
+    "zh": "중국어",
+    "ja": "일본어",
+    "ko": "한국어"
+  },
+  "nav": {
+    "home": "홈",
+    "about": "회사 소개",
+    "services": "사업 영역",
+    "markets": "시장",
+    "leadership": "경영진",
+    "location": "지도",
+    "contact": "연락처",
+    "mail": "메일 서버",
+    "mailAria": "메일 서버 열기",
+    "backToTop": "맨 위로 이동",
+    "openMenu": "메뉴 열기"
+  },
+  "hero": {
+    "eyebrow": "L38 Import Export Services & Trading",
+    "title": "Connecting Global Trade",
+    "copy": "국제 무역, 수출입 운영, 크로스보더 물류를 위한 신뢰할 수 있는 파트너입니다.",
+    "ctaPrimary": "상담 문의",
+    "ctaSecondary": "역량 보기",
+    "panelLabel": "오피스",
+    "panelTitle": "Vincom Center Dong Khoi",
+    "panelText": "호치민시 중심 18층"
+  },
+  "about": {
+    "eyebrow": "회사 프로필",
+    "title": "L38 Company",
+    "copy": "L38은 수출입, 국제 무역, 물류 분야에서 베트남, 중국, 동남아시아 및 글로벌 시장을 연결하는 기업입니다.",
+    "legalNameLabel": "법인명",
+    "legalName": "L38 IMPORT EXPORT SERVICES & TRADING COMPANY LIMITED",
+    "taxLabel": "세금 코드",
+    "foundedLabel": "설립일",
+    "statusLabel": "운영 상태",
+    "status": "운영 중"
+  },
+  "services": {
+    "eyebrow": "핵심 서비스",
+    "title": "사업 영역",
+    "items": [
+      {
+        "title": "수출입",
+        "items": ["국제 화물 수출입", "문서 지원", "통관 신고", "운송 조율", "국제 주문 추적"]
+      },
+      {
+        "title": "국제 무역",
+        "items": ["공급업체 연결", "상품 소싱", "무역 지원", "해외 시장 확장", "기업 협력 컨설팅"]
+      },
+      {
+        "title": "물류",
+        "items": ["국제 운송", "배송 관리", "컨테이너 조율", "공급망 추적", "물류 운영 최적화"]
+      }
+    ]
+  },
+  "capacity": {
+    "eyebrow": "기업 역량",
+    "title": "실무 운영과 다국가 네트워크",
+    "copy": "L38은 시장 확장을 원하는 기업을 위해 주문 조율, 국제 물류, 통관 절차, 운송 및 무역 컨설팅을 지원합니다.",
+    "items": ["국제 물류 지원", "주문 조율", "다국어 지원", "국제 파트너 연결", "운송 관리", "수출입 운영 지원"]
+  },
+  "operations": {
+    "eyebrow": "운영 프레임워크",
+    "title": "명확한 실행 프로세스",
+    "copy": "L38은 요구사항 검토, 소싱, 문서 확인, 물류 조율, 진행 추적, 납품 후 지원까지 전 과정을 함께합니다.",
+    "step1Title": "요구사항 접수",
+    "step1Copy": "상품, 시장, 운송 노선, 필요 문서와 일정을 확인합니다.",
+    "step2Title": "소싱 연결",
+    "step2Copy": "공급업체 탐색, 거래 조건 협의, 협력 방안 수립을 지원합니다.",
+    "step3Title": "물류 조율",
+    "step3Copy": "국제 운송, 컨테이너, 화물 처리, 통관 및 주문 추적을 조율합니다.",
+    "step4Title": "보고 및 지원",
+    "step4Copy": "진행 상황을 업데이트하고 운영 기록을 유지하며 거래 중 이슈 처리를 지원합니다."
+  },
+  "documents": {
+    "eyebrow": "문서 지원",
+    "title": "문서 및 수출입 운영 지원",
+    "panelTitle": "주요 지원 항목",
+    "item1": "국제 무역 서류",
+    "item2": "운송 및 배송 문서",
+    "item3": "주문 진행 추적",
+    "item4": "공급업체 및 물류 파트너 조율",
+    "item5": "다국어 커뮤니케이션 지원",
+    "item6": "적합한 무역 방안 컨설팅",
+    "diffTitle": "L38의 차별점",
+    "diffCopy": "실무 운영, 빠른 응답, 투명한 정보 공유, 고객 및 국제 파트너와의 장기 협력을 중시합니다.",
+    "cta": "L38과 상담하기"
+  },
+  "markets": {
+    "eyebrow": "운영 시장",
+    "title": "운영 시장",
+    "items": ["베트남", "중국", "동남아시아", "국제 시장"]
+  },
+  "stats": {
+    "items": [
+      { "value": "100+", "label": "고객" },
+      { "value": "50+", "label": "국제 파트너" },
+      { "value": "10,000+", "label": "지원 주문" },
+      { "value": "24/7", "label": "상담 지원" }
+    ]
+  },
+  "values": {
+    "eyebrow": "핵심 가치",
+    "title": "핵심 가치",
+    "items": [
+      { "title": "신뢰", "copy": "투명성, 일정 준수, 전문성을 약속합니다." },
+      { "title": "효율", "copy": "고객의 운영과 비용을 최적화합니다." },
+      { "title": "지속성", "copy": "장기 협력으로 국제 성장을 함께 만듭니다." }
+    ]
+  },
+  "leadership": {
+    "eyebrow": "경영진",
+    "title": "경영진",
+    "directorRole": "대표이사",
+    "directorName": "Au Vo Long",
+    "directorAlt": "Au Vo Long 사진",
+    "directorQrAlt": "Au Vo Long Zalo QR 코드",
+    "financeRole": "재무 부대표",
+    "financeName": "Vu Hang",
+    "financeAlt": "Vu Hang 사진",
+    "financeQrAlt": "Vu Hang Zalo QR 코드",
+    "phoneLabel": "전화:",
+    "emailLabel": "이메일:",
+    "openZalo": "Zalo 열기"
+  },
+  "gallery": {
+    "eyebrow": "오피스 이미지",
+    "title": "L38 오피스 공간",
+    "image1Alt": "L38 오피스 전망",
+    "image2Alt": "L38 업무 공간",
+    "image3Alt": "L38 오피스 전체 전망"
+  },
+  "map": {
+    "eyebrow": "위치",
+    "title": "Vincom Center Dong Khoi 오피스",
+    "copy": "Vincom Center Dong Khoi, 72 Le Thanh Ton, Saigon, Ho Chi Minh City, Vietnam.",
+    "openLabel": "Google Maps 열기",
+    "address": "Vincom Center Dong Khoi, 72 Le Thanh Ton, Saigon, Ho Chi Minh City, Vietnam"
+  },
+  "contact": {
+    "eyebrow": "연락처",
+    "title": "L38과 연결하기",
+    "copy": "수출입, 물류, 국제 무역 상담을 지원합니다.",
+    "website": "웹사이트",
+    "email": "이메일",
+    "phone": "전화",
+    "mailServerLabel": "메일 서버",
+    "addressLabel": "오피스 주소",
+    "address": "L18-11-13, 18층, Vincom Center Dong Khoi, 72 Le Thanh Ton, Saigon Ward, Ho Chi Minh City, Vietnam"
+  },
+  "footer": {
+    "company": "L38 Company",
+    "rights": "All rights reserved."
+  }
+}
